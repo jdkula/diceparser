@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/diceparser.iml" filepath="$PROJECT_DIR$/.idea/modules/diceparser.iml" group="diceparser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/diceparser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/diceparser_main.iml" group="diceparser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/diceparser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/diceparser_test.iml" group="diceparser" />
+    </modules>
+  </component>
+</project>
